@@ -8,7 +8,7 @@ My background isn't just "coding"—it's decades of ensuring mission-critical sy
 * **2020 – 2025:** Field Service Engineer Radiotherapy at **Vision RT Ltd** (Medical Devices). Specialized in high-precision radiotherapy systems.
 * **2014 – 2020:** Senior System Administrator. Managing complex IT infrastructures.
 * **2007 – 2013:** IT Support Technician.
-* **2003 – 2005:** IT System Electronics Enginee.
+* **2003 – 2005:** IT System Electronics Engineer.
 
 ## Specialized Services
 I focus on the "Clean Architecture" approach to prevent technical debt and ensure investor-ready stability.
