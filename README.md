@@ -1,4 +1,4 @@
-# Senior Flutter Architect & IT Engineer | 22+ Years Expertise 
+# Flutter Architect & IT Engineer  
 
 I bridge the gap between rapid AI-assisted development and enterprise-grade software engineering. With over two decades of experience in IT infrastructure and medical device engineering, I apply a level of technical rigor to Flutter development that ensures "MedTech-Grade" quality, scalability, and security.
 
