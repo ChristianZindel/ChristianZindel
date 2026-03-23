@@ -2,7 +2,7 @@
 ### Sovereign AI for a Zero-Cloud Future
 
 In an era of vanishing data sovereignty, Hugin AI LLC builds the fortress.
-We deliver enterprise-grade local AI intelligence that remains 100% under your control—no cloud, no leaks, no compromises.
+We deliver enterprise-grade local AI intelligence that remains 100% under your control. No cloud. No leaks. No compromises.
 
 ### The Gleipnir Security Suite 
 * **Munin (The Memory):** Seamless RAG integration of local archives for high-precision fact retrieval. 
